@@ -165,7 +165,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Executive Overview
 
-> *(Insert Screenshot Here)*
+> images/executive-overview.png
 
 ---
 
