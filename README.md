@@ -165,13 +165,13 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Executive Overview
 
-> images/executive-overview.png
+>![Executive Overview](images/executive-overview.png)
 
 ---
 
 ## Product & Sales Performance
 
-> *(Insert Screenshot Here)*
+>![Product & Sales Performance](images/product-sales-performance.png)
 
 ---
 
